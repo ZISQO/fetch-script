@@ -18,7 +18,8 @@
 # Thanks to Tim Sutton for ideas, suggestions, and sample code.
 #
 
-'''installinstallmacos.py
+'''fetch.py
+
 A tool to download the parts for an Install macOS app from Apple's
 softwareupdate servers and install a functioning Install macOS app onto an
 empty disk image'''
